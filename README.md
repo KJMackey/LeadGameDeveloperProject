@@ -14,3 +14,7 @@ The overall goal is for the user to be able to press buttons randomly using the 
 - You can add to the README to justify any design decisions you made.
 - Feel free to ask me questions if you have them. Our team will typically work like this, just message me whenever you need.
 - You can tear apart/redo the scenes, they're just placeholders for clarity of project requirements. 
+
+### Dev Notes:
+-I added a bit more than just the basic requirements to display more working knowledge
+-I used a serialized saved file to store the information to keep it simplistic but still have some security on the file.
